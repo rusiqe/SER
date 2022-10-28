@@ -464,16 +464,16 @@ header h6 {
 }
 
 .services .card-title {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 600;
     line-height: 30px;
-    padding-left: 10px;
+    padding-left: 5px;
     text-transform: uppercase;
 }
 
 .services .card {
     border-top: 15px solid #f7da17;
-    padding: 30px 30px !important;
+    padding: 10px 10px !important;
     border-radius: 0;
     margin-bottom: 1rem;
     -webkit-transition: .5s all ease;
@@ -488,7 +488,7 @@ header h6 {
 }
 
 .services .card .card-block {
-    padding-left: 50px;
+    padding-left: 10px;
     position: relative;
 }
 
@@ -507,7 +507,7 @@ header h6 {
     font-weight: 500;
     letter-spacing: 0.5px;
     line-height: 25px;
-    padding-bottom: 20px;
+    padding-bottom: 15px;
 }
 
 .services .card:hover .card-block a i {
@@ -519,25 +519,15 @@ header h6 {
 .services .card .card-block h3:before {
     font-family: FontAwesome;
     position: absolute;
-    font-size: 35px;
-    padding: 10px 0;
+    font-size: 20px;
+    padding: 5px 0;
     color: #9c9c9c;
     left: 0;
     -webkit-transition: -webkit-transform .2s ease-in-out;
     transition: transform .2s ease-in-out;
 }
 
-.services .card .block-1 h3:before {
-    content: "\f19c";
-}
 
-.services .card .block-2 h3:before {
-    content: "\f1ad";
-}
-
-.services .card .block-3 h3:before {
-    content: "\f0ea";
-}
 
 .services .card:hover .card-block h3:before {
     -webkit-transform: rotate(360deg);
