@@ -16,11 +16,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<script type="text/javascript" src="engine0/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section --></head>
+</head>
 
 <body>
     <header class="header bg">
@@ -158,19 +154,7 @@ Our qualified teams are ready to meet your needs and thats what we do best. We p
     <!-- About Section End -->
 
     <!-- Footer -->
-    
-	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container0">
-	<div class="ws_images"><ul>
-		<li><img src="data0/images/manu.jpg" alt="Emmanuel Maduwuro" title="Emmanuel Maduwuro" id="wows0_0"/>Technical Director
-</li>
-	</ul></div>
-<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">javascript photo gallery</a> by WOWSlider.com v9.0</div>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine0/wowslider.js"></script>
-	<script type="text/javascript" src="engine0/script.js"></script>
-	<!-- End WOWSlider.com BODY section --><footer class="page-footer">
+    <footer class="page-footer">
 
         <!-- Footer Links -->
         <div class="container text-center text-md-left">
@@ -201,9 +185,9 @@ Our qualified teams are ready to meet your needs and thats what we do best. We p
                                 <li>
                                     <a href="services.html">services</a>
                                 </li>
-                                <!-- <li>
+                                <li>
                                     <a href="projects.html">Project portfolio</a>
-                                </li> -->
+                                </li>
                                 <li>
                                     <a href="contact.html">contact us</a>
                                 </li>
