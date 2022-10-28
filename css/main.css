@@ -475,7 +475,7 @@ header h6 {
     border-top: 15px solid #f7da17;
     padding: 10px 10px !important;
     border-radius: 0;
-    margin-bottom: 1rem;
+    margin-bottom: auto;
     -webkit-transition: .5s all ease;
     -moz-transition: .5s all ease;
     transition: .5s all ease;
@@ -507,7 +507,7 @@ header h6 {
     font-weight: 500;
     letter-spacing: 0.5px;
     line-height: 25px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
 }
 
 .services .card:hover .card-block a i {
@@ -516,26 +516,7 @@ header h6 {
 
 }
 
-.services .card .card-block h3:before {
-    font-family: FontAwesome;
-    position: absolute;
-    font-size: 20px;
-    padding: 5px 0;
-    color: #9c9c9c;
-    left: 0;
-    -webkit-transition: -webkit-transform .2s ease-in-out;
-    transition: transform .2s ease-in-out;
-}
 
-
-
-.services .card:hover .card-block h3:before {
-    -webkit-transform: rotate(360deg);
-    transform: rotate(360deg);
-    -webkit-transition: .5s all ease;
-    -moz-transition: .5s all ease;
-    transition: .5s all ease;
-}
 
 /*==============================
           About
