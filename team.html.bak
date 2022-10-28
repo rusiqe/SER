@@ -13,11 +13,7 @@
  <title>SER Engineering</title>
 
 
-
-	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
-	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
-	<script type="text/javascript" src="engine0/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section --></head>
+</head>
 <body>
 <!-- partial:index.partial.html -->
 <div class="app">
@@ -104,20 +100,7 @@
 </div>
 
 
-
-	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
-	<div id="wowslider-container0">
-	<div class="ws_images"><ul>
-		<li><img src="data0/images/manu.jpg" alt="Emmanuel Maduwuro" title="Emmanuel Maduwuro" id="wows0_0"/>Technical Director</li>
-		<li><a href="http://wowslider.net"><img src="data0/images/reezi.jpg" alt="jquery slideshow" title="Resistente Mcobo" id="wows0_1"/></a>Managing Director/Administrator</li>
-		<li><img src="data0/images/shingi.jpg" alt="Shingai Muzondo" title="Shingai Muzondo" id="wows0_2"/>Marketing Director</li>
-	</ul></div>
-<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">javascript photo gallery</a> by WOWSlider.com v9.0</div>
-	<div class="ws_shadow"></div>
-	</div>	
-	<script type="text/javascript" src="engine0/wowslider.js"></script>
-	<script type="text/javascript" src="engine0/script.js"></script>
-	<!-- End WOWSlider.com BODY section --><svg class="icons" style="display: none;">
+<svg class="icons" style="display: none;">
 	<symbol id="arrow-left" xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'>
 		<polyline points='328 112 184 256 328 400'
 					 style='fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:48px' />
