@@ -16,7 +16,11 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-</head>
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section --></head>
 
 <body>
     <header class="header bg">
@@ -212,7 +216,28 @@
     </section>
 	
     <!-- Support section Start -->
-    <section class="support">
+    
+	<!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
+	<div id="wowslider-container0">
+	<div class="ws_images"><ul>
+		<li><img src="data0/images/1.jpg" alt="1" title="1" id="wows0_0"/></li>
+		<li><img src="data0/images/10.png" alt="10" title="10" id="wows0_1"/></li>
+		<li><img src="data0/images/11.png" alt="11" title="11" id="wows0_2"/></li>
+		<li><img src="data0/images/2.png" alt="2" title="2" id="wows0_3"/></li>
+		<li><img src="data0/images/3.jpg" alt="3" title="3" id="wows0_4"/></li>
+		<li><img src="data0/images/4.jpg" alt="4" title="4" id="wows0_5"/></li>
+		<li><img src="data0/images/5.png" alt="5" title="5" id="wows0_6"/></li>
+		<li><img src="data0/images/6.png" alt="6" title="6" id="wows0_7"/></li>
+		<li><img src="data0/images/7.png" alt="7" title="7" id="wows0_8"/></li>
+		<li><a href="http://wowslider.net"><img src="data0/images/8.png" alt="javascript slider" title="8" id="wows0_9"/></a></li>
+		<li><img src="data0/images/9.png" alt="9" title="9" id="wows0_10"/></li>
+	</ul></div>
+<div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">javascript photo gallery</a> by WOWSlider.com v9.0</div>
+	<div class="ws_shadow"></div>
+	</div>	
+	<script type="text/javascript" src="engine0/wowslider.js"></script>
+	<script type="text/javascript" src="engine0/script.js"></script>
+	<!-- End WOWSlider.com BODY section --><section class="support">
         <div class="container">
             <div class="row"  data-aos="fade-up" data-aos-duration="300">
                 <div class="col-sm-12">
